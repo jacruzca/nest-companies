@@ -1,0 +1,24 @@
+{
+  "name": "nest-companies",
+  "version": "1.0.0",
+  "description": "POC Nest.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacruzca/nest-companies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacruzca/nest-companies/issues"
+  },
+  "homepage": "https://github.com/jacruzca/nest-companies#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.46",
+    "ts-node": "^3.3.0"
+  }
+}
